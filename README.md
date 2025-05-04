@@ -1,4 +1,4 @@
-# Random-Color-Generator
+# Random-Color-Generator Using Javascript
 
 let btn = document.querySelector("button");
 
