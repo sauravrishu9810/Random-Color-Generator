@@ -1,0 +1,18 @@
+div{
+  border:1px solid black;
+  width: 500px;
+  height: 100px;
+  /* margin-left:500px; */
+  margin:auto
+
+}
+
+body{
+  text-align: center;
+  background-color: rgb(174, 214, 192);
+}
+
+button{
+  background-color: beige;
+  border-radius:5px;
+}
