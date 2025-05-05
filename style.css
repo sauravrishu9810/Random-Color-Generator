@@ -1,18 +1,33 @@
-div{
-  border:1px solid black;
-  width: 500px;
-  height: 100px;
-  /* margin-left:500px; */
-  margin:auto
-
-}
 
 body{
   text-align: center;
-  background-color: rgb(174, 214, 192);
+  background-image:url(sean-sinclair-gai1YB3UmDA-unsplash.jpg);
+  background-size: cover;
 }
 
 button{
-  background-color: beige;
-  border-radius:5px;
+  background-color: khaki;
+  color: rgb(88, 157, 63);
+  font-size:20px;
 }
+
+div{
+  border:2px solid black;
+  height:300px;
+  width:500px;
+  margin-left:500px;
+  border-radius: 10px;
+  padding-top:200px;
+  margin-top: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: brown;
+  text-decoration: underline;
+  padding-top: 20px;
+  font-size:30px
+
+}
+
